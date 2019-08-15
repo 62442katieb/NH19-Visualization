@@ -1,6 +1,9 @@
 #all pdfs
 *.pdf
 
+#all gimp images
+*.xcf
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
