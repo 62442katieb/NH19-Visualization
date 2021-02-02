@@ -1,6 +1,6 @@
 # NH19-Visualization
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/62442katieb/NH19-Visualization/binder-live?filepath=DataViz_Scatter-AllCode.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/62442katieb/NH19-Visualization/binder-live)
 
 A collection of notebooks demonstrating plotting with matplotlib.
 
