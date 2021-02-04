@@ -4,12 +4,13 @@
 
 A collection of notebooks demonstrating plotting with matplotlib, Seaborn, and Nilearn. Using these tools is a great way to produce high-quality figures, which can be reproduced using just your code and data.
 
-### Matplotlib and Seaborn Galleries
+### Matplotlib, Seaborn, and Nilearn Galleries
 
-The greatest part of matplotlib and seaborn are their galleries:
+The greatest part of matplotlib, Seaborn, and Nilearn are their galleries:
 
 * https://matplotlib.org/3.1.0/gallery/index.html
 * https://seaborn.pydata.org/examples/index.html
+* https://nilearn.github.io/plotting/index.html
 
 If you take nothing else from this session, please know that there are amazing examples that you can copy and paste and run for yourself.
 
