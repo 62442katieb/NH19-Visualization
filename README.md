@@ -39,15 +39,6 @@ Finally, make sure you can see this environment in [jupyter lab](https://jupyter
 python -m ipykernel install --user --name nh19-visualization
 ```
 
-### Step by step tutorial
-
-In 2017 Michael Vendetti and I published a paper on *"Neuroscientific insights into the development of analogical reasoning"*.
-The code to recreate the figures from processed data is available at https://github.com/KirstieJane/NORA_WhitakerVendetti_DevSci2017.
-
-The [DataViz_Scatter](DataViz_Scatter.ipynb) jupyter notebook is a step by step tutorial to plot figure 2 (shown below) from the paper.
-
-![](https://raw.githubusercontent.com/KirstieJane/NORA_WhitakerVendetti_DevSci2017/master/FIGURES/Figure2_lowres.png)
-
 ## Other example notebooks
 
 * Tal's Visualization in Python tutorial from last year: https://github.com/neurohackademy/visualization-in-python/blob/master/visualization-in-python.ipynb
