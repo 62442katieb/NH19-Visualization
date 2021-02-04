@@ -1,8 +1,8 @@
-# NH19-Visualization
+# Reproducible Data Visualization in Python
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/62442katieb/NH19-Visualization/binder-live)
 
-A collection of notebooks demonstrating plotting with matplotlib.
+A collection of notebooks demonstrating plotting with matplotlib, Seaborn, and Nilearn. Using these tools is a great way to produce high-quality figures, which can be reproduced using just your code and data.
 
 ### Matplotlib and Seaborn Galleries
 
